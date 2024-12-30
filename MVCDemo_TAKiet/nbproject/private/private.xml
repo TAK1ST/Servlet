@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/web/view/account/login.jsp</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/src/java/testConnect.java</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/src/java/utils/DBUtils.java</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/src/java/entities/Category.java</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/web/view/product/create.jsp</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/src/java/dao/AccountDAO.java</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/src/java/controllers/AuthController.java</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/src/java/entities/Product.java</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/web/view/product/list.jsp</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/src/java/dto/SearchProductDTO.java</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/src/java/dto/CreateProductDTO.java</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/src/java/dao/ProductDAO.java</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/src/java/controllers/ProductController.java</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/src/java/dao/CategoryDAO.java</file>
+            <file>file:/E:/JavaTrain/MVCDemo_TAKiet/web/view/product/update.jsp</file>
+        </group>
+    </open-files>
+</project-private>
